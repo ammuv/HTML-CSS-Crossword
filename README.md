@@ -1,2 +1,3 @@
-# Scalable-Internet-Services
-Projects done for Scalable Internet Services (2021) class at UCSB 
+# HTML CSS Crossword
+A simple static website developed using HTML and CSS that houses a fun crossword on HTML and CSS!
+
